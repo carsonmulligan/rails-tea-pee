@@ -1,0 +1,47 @@
+// Specific CSS for your home-page
+.home {
+  height: 100vh;
+  opacity: 95%;
+  background: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.8Q1gMXj2GY8-Ba0obMaPmgHaEK%26pid%3DApi&f=1');
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+ul{
+  text-align: left;
+  list-style-position: inside ;
+  color: white;
+  font-size: 25px;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  padding-top: 50px;
+  padding-bottom: 80px;
+}
+.small-text{
+  text-align: center;
+  color: white;
+  padding-top: 40px ;
+}
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  padding: 180px 0 0 0;
+}
+
+.banner h1 {
+  margin: 0;
+  color: white;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+
+.banner-content {
+  height: 50%;
+}
+
+.no-decoration:hover {
+  text-decoration: none;
+}
